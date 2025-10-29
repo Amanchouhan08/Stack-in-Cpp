@@ -28,11 +28,9 @@ int main() {
 
 /*
 output
-
 Top element: 30
 After pop, top element: 20
 Size of stack: 2
 Stack is not empty
-
 */
 
