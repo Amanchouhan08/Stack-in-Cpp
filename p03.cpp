@@ -56,3 +56,15 @@ int main() {
     return 0;
 }
 
+/*
+output
+
+10 pushed into stack.
+20 pushed into stack.
+30 pushed into stack.
+Stack elements (top to bottom): 30 20 10 
+30 popped from stack.
+Stack elements (top to bottom): 20 10
+
+*/
+
