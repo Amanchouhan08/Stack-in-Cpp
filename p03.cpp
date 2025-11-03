@@ -7,7 +7,6 @@ using namespace std;
 class Stack {
     int arr[SIZE];
     int top;
-
 public:
     Stack() {
         top = -1; // stack is empty
