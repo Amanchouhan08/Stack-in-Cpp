@@ -57,7 +57,6 @@ int main() {
 
 /*
 output
-
 10 pushed into stack.
 20 pushed into stack.
 30 pushed into stack.
