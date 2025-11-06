@@ -9,7 +9,7 @@ class Stack {
     int top;
 public:
     Stack() {
-        top = -1; // stack is empty
+        top = -1; // stack is Empty
     }
 
     void push(int value) {
